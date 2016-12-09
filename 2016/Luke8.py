@@ -3,6 +3,8 @@
 Created on Thu Dec  8 18:27:27 2016
 
 @author: Thomas
+
+Oppgave:
 Stigespillet er et enkelt turbasert brettspill der to eller flere spillere beveger seg gjennom et brett for å komme fra start til mål. Den første spilleren som havner i den siste ruta har vunnet. For hver tur kaster en spiller en terning, og må bevege seg fremover like mange steg som terningen viser. Rutene på brettet er fylt med stiger som går oppover eller nedover. Hvis spilleren lander på en rute hvor en stige starter flyttes spilleren til ruta stigen peker på.
 
 Anta et brett med 10 ganger 9 ruter og følgende sett med stiger: [(3,17), (8,10), (15,44), (22,5), (39,56), (49,75), (62,45), (64,19), (65,73), (80,12), (87,79]
