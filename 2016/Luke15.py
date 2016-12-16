@@ -45,5 +45,5 @@ def lookAndSay(number, iterations):
 		n += 1
 	return(len(number))
 
+
 print(lookAndSay("1111321112321111", 50))
-#print(lookAndSay("3", 5))
